@@ -32,7 +32,7 @@ I'm a first-year B.Tech student at Gurukula Kangri University, passionate about 
 
 ### 📫 Connect With Me
 
-- 💼 LinkedIn: Add your LinkedIn profile URL
+- 💼 LinkedIn:www.linkedin.com/in/govindachari
 - 🐙 GitHub: https://github.com/govindachari289
 
 ---
