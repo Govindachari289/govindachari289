@@ -41,15 +41,7 @@ I'm a first-year B.Tech student at Gurukula Kangri University, passionate about 
 
 ---
 
-## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=govindachari289&show_icons=true&theme=tokyonight&hide_border=true)
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=govindachari289&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ### 🚀 Thanks for visiting my profile!
 
