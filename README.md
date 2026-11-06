@@ -1,4 +1,4 @@
-
+![Govindachari Banner](./github-banner.png)
 # 👋 Hey, I'm Govindachari!
 
 ### 💻 B.Tech Student | Aspiring Software Developer
