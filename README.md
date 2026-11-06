@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**Govindachari289/govindachari289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Govindachari!
 
-Here are some ideas to get you started:
+### 💻 B.Tech Student | Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! 🚀
+
+I'm a first-year B.Tech student at Gurukula Kangri University, passionate about programming, technology, and creative work.
+
+### 🧑‍💻 About Me
+
+- 🎓 Pursuing B.Tech
+- 🐍 Learning Python
+- 💻 Programming in C
+- 🌐 Exploring HTML & CSS
+- 🎬 Interested in Video Editing
+- 🌱 Always learning and improving
+
+### ⚡ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🎯 Current Goals
+
+- Strengthen programming fundamentals
+- Build my first web development projects
+- Improve problem-solving skills
+- Explore new technologies
+
+### 📫 Connect With Me
+
+- 💼 LinkedIn: Add your LinkedIn profile URL
+- 🐙 GitHub: https://github.com/govindachari289
+
+---
+
+⭐ *Learning today, building tomorrow!*
